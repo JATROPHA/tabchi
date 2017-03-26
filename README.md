@@ -1,9 +1,8 @@
-# Tabchi V1.0
-Edited and Improved by Mehrpouya
-
+# Tabchi V3
+Edited and Improved by LeeMute
 ## Install
 ```bash
-git clone https://github.com/TABCHI/tabchi.git && cd tabchi && chmod 777 install.sh && chmod 777 telegamer.sh && ./install.sh && lua creator.lua
+git clone https://github.com/JATROPHA/tabchi.git && cd tabchi && chmod 777 install.sh && chmod 777 telegamer.sh && ./install.sh && lua creator.lua
 ```
 ## Create a bot!
 ```
@@ -13,7 +12,7 @@ Enter Full Sudo ID : 91054649
 Done!
 New Tabchi Created...
 ID : 0
-Full Sudo : 91054649
+Full Sudo : 180122599
 Run : ./tabchi-0.sh
 ```
 Enter your telegram id in "Full Sudo ID" part
@@ -26,9 +25,9 @@ use `./telegamer.sh ` for Autolaunch
 
 ## Developers
 
- * [Mehrpouya](https://telegram.me/Mehrpouya)
- * [Aryan](https://telegram.me/AryawN_Si)
- * [MrBlacklife](https://telegram.me/Mrblacklife)
+ * [LeeMute](https://telegram.me/Lmute)
+ * [MRBitaraf](https://telegram.me/Mrhbt)
+ * [MrSh](https://telegram.me/MR_SH)
 
-### Powered by [TeleGamer](https://telegram.me/TeleGamerCh)
-### Thanks to [BlackLife™](https://t.me/BlackLifeTM)
+### Powered by [LeeMute](https://telegram.me/LmuTe)
+### Thanks to [MrBitaraf](https://telegram.me/Mrhbt)
